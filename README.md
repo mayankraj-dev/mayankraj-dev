@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Mayank Raj GitHub Banner">
-</p>
-
-
-<p align="center">
   <img src="assets/banner.png" alt="Mayank Raj">
 </p><h2 align="center">👾 Mayank Raj</h2><p align="center">
   🔐 Cybersecurity Student &nbsp;•&nbsp; 🐍 Python Developer &nbsp;•&nbsp; 🤖 Automation Enthusiast
