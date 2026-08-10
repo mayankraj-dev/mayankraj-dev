@@ -1,21 +1,25 @@
-<!-- ======================= HEADER ======================= --><p align="center">
-  <img src="assets/banner.png" width="100%" alt="Mayank Raj Cyberpunk Banner"/>
-</p><p align="center">
-  <a href="https://github.com/mayankraj-dev">
-    <img src="https://img.shields.io/badge/GitHub-mayankraj--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/mayankraj_in">
-    <img src="https://img.shields.io/badge/Instagram-@mayankraj__in-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://t.me/mayankraj_dev">
-    <img src="https://img.shields.io/badge/Telegram-@mayankraj__dev-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Automation+Enthusiast+%F0%9F%A4%96;Learning.+Building.+Experimenting.;Code.+Automate.+Secure." alt="Typing Animation"/>
-</p>---
+<!-- ======================= HEADER ======================= -->
+<div align="center">
 
-👾 "whoami"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00E5FF&height=220&section=header&text=Mayank%20Raj&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Student%20%7C%20Python%20Dev%20%7C%20Building%20AI%20%26%20Bots&descAlignY=55&descSize=18"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=750&lines=Cybersecurity+Student+%F0%9F%94%90;Python+Developer+%F0%9F%90%8D;Automation+%2B+AI+Enthusiast+%F0%9F%A4%96;Building+Lumina+%26+FIGO+%F0%9F%A4%96;Code.+Automate.+Secure.+%E2%9A%A1"/>
+
+<br/>
+
+<a href="https://github.com/mayankraj-dev"><img src="https://img.shields.io/badge/GitHub-mayankraj--dev-181717?style=for-the-badge&logo=github&logoColor=00E5FF&labelColor=000000"/></a>
+<a href="https://instagram.com/mayankraj_in"><img src="https://img.shields.io/badge/Instagram-@mayankraj__in-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a>
+<a href="https://t.me/mayankraj_dev"><img src="https://img.shields.io/badge/Telegram-@mayankraj__dev-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=mayankraj-dev&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<!-- ======================= WHOAMI TERMINAL ======================= -->
+
+```bash
 mayankraj-dev@github:~$ whoami
 
 > Mayank Raj
@@ -25,124 +29,97 @@ mayankraj-dev@github:~$ whoami
 > Linux & Termux Explorer
 > Builder • Learner • Experimenter
 
-mayankraj-dev@github:~$ echo "status"
-
+mayankraj-dev@github:~$ echo $STATUS
 [ ONLINE ] ⚡
+```
 
-I'm a cybersecurity student interested in building useful software, experimenting with automation, exploring Linux and learning how digital systems work.
+I'm a cybersecurity student who loves turning ideas into working software — Python tools, AI-powered apps, and Telegram bots that actually do something useful. Currently deep in Linux, networking, and automation. 🚀
 
-I enjoy turning ideas into working projects — especially Python tools, AI-powered applications and Telegram bots.
+<br/>
 
----
+<!-- ======================= SYSTEM STATUS ======================= -->
 
-🧠 Current Mission
+## 🧠 Current Mission
 
-┌──────────────────────────────────────────────────┐
-│                  SYSTEM STATUS                   │
-├──────────────────────────────────────────────────┤
-│ 🔐 Cybersecurity       → LEARNING                │
-│ 🐍 Python              → BUILDING                │
-│ 🐧 Linux / Termux      → EXPLORING               │
-│ 🌐 Networking          → LEARNING                │
-│ 🤖 AI & Automation     → EXPERIMENTING           │
-│ 🚀 Real Projects       → IN PROGRESS             │
-└──────────────────────────────────────────────────┘
+| Module | Status |
+|---|---|
+| 🔐 Cybersecurity | `LEARNING` |
+| 🐍 Python | `BUILDING` |
+| 🐧 Linux / Termux | `EXPLORING` |
+| 🌐 Networking | `LEARNING` |
+| 🤖 AI & Automation | `EXPERIMENTING` |
+| 🚀 Real Projects | `IN PROGRESS` |
 
-«I don't want to just learn technology. I want to build with it.»
+> *"I don't want to just learn technology. I want to build with it."*
 
----
+<br/>
 
-⚡ Tech Arsenal
+<!-- ======================= TECH ARSENAL ======================= -->
 
-💻 Languages
+## ⚡ Tech Arsenal
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>🛠️ Tools & Platforms
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,linux,git,github,vscode&theme=dark" />
+</div>
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>🔭 Exploring
+<br/>
 
-"Cybersecurity" • "Networking" • "Web Security" • "AI Automation" • "APIs"
+<div align="center">
 
----
+**Exploring right now**
+`Cybersecurity` `Networking` `Web Security` `AI Automation` `APIs`
 
-🚀 Projects & Creations
+</div>
 
-🤖 Lumina
+<br/>
 
-"AI • Telegram • Automation"
+<!-- ======================= PROJECTS ======================= -->
 
-Lumina is an AI-powered Telegram assistant project designed around conversations, useful tools, memory and automation.
+## 🚀 Projects & Creations
 
-STATUS
-████████████░░░░░░░░  Building
+### 🤖 Lumina — *AI • Telegram • Automation*
 
-Focus
+Lumina is an AI-powered Telegram assistant built around conversations, useful tools, memory, and automation.
 
-- 🤖 AI-powered conversations
-- 🧠 Memory & personalization
-- ⚙️ Automation
-- 📱 Telegram integration
-- 🛠️ Utility features
+`🤖 AI conversations` · `🧠 Memory & personalization` · `⚙️ Automation` · `📱 Telegram integration` · `🛠️ Utility features`
 
-<p>
-<a href="https://t.me/ChatLuminaBot">
-<img src="https://img.shields.io/badge/🤖%20OPEN%20LUMINA-ChatLuminaBot-8A2BE2?style=for-the-badge"/>
-</a>
-</p>---
+**Progress:** ████████████░░░░░░░░ `Building`
 
-📝 FIGO Notemaker
+<div align="center">
+<a href="https://t.me/ChatLuminaBot"><img src="https://img.shields.io/badge/🤖_OPEN_LUMINA-ChatLuminaBot-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
 
-"AI • Telegram • Notes"
+<br/>
 
-FIGO Notemaker is a Telegram bot project focused on creating useful, organized notes with the help of AI.
+### 📝 FIGO Notemaker — *AI • Telegram • Notes*
 
-STATUS
-██████████░░░░░░░░░░  Building
+FIGO Notemaker is a Telegram bot focused on creating clean, organized notes with the help of AI.
 
-Focus
+`📝 AI-assisted notes` · `📚 Note organization` · `🤖 Telegram interface` · `⚡ Fast & simple workflow`
 
-- 📝 AI-assisted notes
-- 📚 Note organization
-- 🤖 Telegram interface
-- ⚡ Fast & simple workflow
+**Progress:** ██████████░░░░░░░░░░ `Building`
 
-<p>
-<a href="https://t.me/FigoNoteBot">
-<img src="https://img.shields.io/badge/📝%20OPEN%20FIGO-FigoNoteBot-00C853?style=for-the-badge"/>
-</a>
-</p>---
+<div align="center">
+<a href="https://t.me/FigoNoteBot"><img src="https://img.shields.io/badge/📝_OPEN_FIGO-FigoNoteBot-00C853?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</div>
 
-🧪 Currently Building
+<br/>
 
-[01] 🔐 Cybersecurity Skills
-     └── Learning & experimenting
+<!-- ======================= CURRENTLY BUILDING ======================= -->
 
-[02] 🐍 Python Projects
-     └── Building useful tools
+## 🧪 Currently Building
 
-[03] 🤖 AI Automation
-     └── Turning ideas into working systems
+```
+[01] 🔐 Cybersecurity Skills   → Learning & experimenting
+[02] 🐍 Python Projects        → Building useful tools
+[03] 🤖 AI Automation          → Turning ideas into working systems
+[04] 🌐 Networking             → Understanding how systems communicate
+[05] 🚀 Open Source            → Preparing projects to share
+```
 
-[04] 🌐 Networking
-     └── Understanding how systems communicate
+<br/>
 
-[05] 🚀 Open Source
-     └── Preparing projects to share
-
----
-
-🎯 2026 Objectives
+## 🎯 2026 Objectives
 
 - 🔐 Build a stronger cybersecurity foundation
 - 🐍 Become better at Python
@@ -152,33 +129,63 @@ Focus
 - ⭐ Start contributing to open source
 - 📚 Keep learning through practical projects
 
----
+<br/>
 
-📡 Find Me On The Network
+<!-- ======================= GITHUB STATS ======================= -->
 
-<p align="center"><a href="https://instagram.com/mayankraj_in">
-<img src="https://img.shields.io/badge/Instagram-@mayankraj__in-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a><a href="https://t.me/mayankraj_dev">
-<img src="https://img.shields.io/badge/Telegram-@mayankraj__dev-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a></p>🤖 My Bots
+## 🧩 GitHub Stats
 
-<p align="center"><a href="https://t.me/ChatLuminaBot">
-<img src="https://img.shields.io/badge/Lumina-@ChatLuminaBot-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a><a href="https://t.me/FigoNoteBot">
-<img src="https://img.shields.io/badge/FIGO-@FigoNoteBot-00C853?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a></p>---
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mayankraj-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankraj-dev&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+</div>
 
-🧩 GitHub
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=mayankraj-dev&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankraj-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankraj-dev&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
-</p>«📊 These statistics are generated automatically from my actual GitHub activity.»
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mayankraj-dev&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
 
----
+*(📊 These stats are generated automatically from actual GitHub activity.)*
 
-⚡ Terminal
+<br/>
 
+<!-- ======================= SNAKE CONTRIBUTION ANIMATION ======================= -->
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mayankraj-dev/mayankraj-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> ℹ️ Requires the [`platane/snk`](https://github.com/Platane/snk) GitHub Action added to this repo to generate the animation automatically on each push.
+
+<br/>
+
+<!-- ======================= FIND ME ======================= -->
+
+## 📡 Find Me On The Network
+
+<div align="center">
+
+<a href="https://github.com/mayankraj-dev"><img src="https://img.shields.io/badge/GitHub-mayankraj--dev-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://instagram.com/mayankraj_in"><img src="https://img.shields.io/badge/Instagram-@mayankraj__in-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/mayankraj_dev"><img src="https://img.shields.io/badge/Telegram-@mayankraj__dev-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+**🤖 My Bots**
+
+<a href="https://t.me/ChatLuminaBot"><img src="https://img.shields.io/badge/Lumina-@ChatLuminaBot-8A2BE2?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/FigoNoteBot"><img src="https://img.shields.io/badge/FIGO-@FigoNoteBot-00C853?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+<!-- ======================= TERMINAL OUTRO ======================= -->
+
+```bash
 mayankraj-dev@github:~$ ./future.sh
 
 [+] Learning
@@ -191,74 +198,14 @@ mayankraj-dev@github:~$ ./future.sh
 > There is always something new to learn.
 
 mayankraj-dev@github:~$ _
+```
 
----
+<div align="center">
 
-<p align="center">"CODE • AUTOMATE • SECURE"
+### "CODE • AUTOMATE • SECURE"
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>Stay curious. Keep learning. Keep building. 👾
+Stay curious. Keep learning. Keep building. 👾
 
-</p>[+] Python & automation
-[+] Linux & Termux
-[+] Networking
-[+] AI-powered tools
-[+] Building real-world projects
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=100&section=footer"/>
 
----
-
-🛠️ Tech Stack
-
-Languages
-
-"Python" "JavaScript" "HTML" "CSS" "Bash"
-
-Tools
-
-"Git" "GitHub" "Linux" "Termux" "VS Code"
-
-Exploring
-
-"Cybersecurity" "Networking" "Web Security" "AI Automation"
-
----
-
-🚧 Projects
-
-I'm currently building and experimenting with different projects.
-
-🤖 Lumina
-
-An AI-powered Telegram assistant project.
-
-📝 FIGO Notemaker
-
-A Telegram bot project focused on AI-assisted note making.
-
-«More projects coming as I build and learn. 🚀»
-
----
-
-🎯 Goals
-
-- 🔐 Build a strong foundation in cybersecurity
-- 🐍 Improve my Python skills
-- 🌐 Learn networking and web security
-- 🤖 Build useful automation tools
-- ⭐ Contribute to open source
-- 🚀 Turn ideas into real projects
-
----
-
-📡 Connect
-
-GitHub: "@mayankraj-dev" (https://github.com/mayankraj-dev)
-
-Instagram: "@mayankraj_in" (https://instagram.com/mayankraj_in)
-
----
-
-┌─────────────────────────────────────────┐
-│  CODE. AUTOMATE. SECURE.                │
-│                                         │
-│  Stay curious. Keep learning. 👾        │
-└─────────────────────────────────────────┘
+</div>
