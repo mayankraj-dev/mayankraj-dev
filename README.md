@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Mayank Raj GitHub Banner">
+</p>## Hi there 👋
 
 <!--
 **mayankraj-dev/mayankraj-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
