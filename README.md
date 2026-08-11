@@ -1,7 +1,6 @@
 <div align="center">
   <img src="assets/banner.gif" width="100%" alt="Mayank Raj — profile banner">
 </div>
-
 <div align="center">
 
 # Hi, I'm Mayank Raj
@@ -113,3 +112,7 @@ Habits I apply across every project, not just "security" ones:
 [![Instagram](https://img.shields.io/badge/Instagram-mayankraj__in-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/mayankraj_in)
 
 Open to feedback, bug reports, and contributions on any of the projects above.
+
+<div align="center">
+  <img src="assets/banner.gif" width="100%" alt="Mayank Raj — profile banner">
+</div>
