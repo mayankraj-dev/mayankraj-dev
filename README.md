@@ -1,13 +1,13 @@
+
+
+# 👋 𝐇𝐢, 𝐈'𝐦 𝐌𝐚𝐲𝐚𝐧𝐤 𝐑𝐚𝐣
+
+### `Cybersecurity Student` · `Python Developer` · `Automation Builder` · `Telegram Bot Developer`
 <div align="center">
 
 <img src="assets/profile-banner.png" alt="Mayank Raj — Cybersecurity & Developer Profile" width="100%">
 
 <br><br>
-
-# 👋 𝐇𝐢, 𝐈'𝐦 𝐌𝐚𝐲𝐚𝐧𝐤 𝐑𝐚𝐣
-
-### `Cybersecurity Student` · `Python Developer` · `Automation Builder` · `Telegram Bot Developer`
-
 <p>
   <a href="https://github.com/mayankraj-dev">
     <img src="https://img.shields.io/badge/GitHub-mayankraj--dev-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
