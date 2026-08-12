@@ -90,19 +90,9 @@ Habits I apply across every project, not just "security" ones:
 - Keep operational logs without over-collecting user data
 - Test edge cases, not just the happy path
 
----
-
-## GitHub Stats
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayankraj-dev&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github&custom_title=GitHub%20Overview)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayankraj-dev&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankraj-dev&layout=donut-vertical&langs_count=8&hide_border=true)
-
+  <img src="assets/banner.gif" width="100%" alt="Mayank Raj — profile banner">
 </div>
-
 ---
 
 ## Let's Connect
@@ -113,6 +103,4 @@ Habits I apply across every project, not just "security" ones:
 
 Open to feedback, bug reports, and contributions on any of the projects above.
 
-<div align="center">
-  <img src="assets/banner.gif" width="100%" alt="Mayank Raj — profile banner">
-</div>
+
